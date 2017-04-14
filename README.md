@@ -7,9 +7,9 @@ Install:
 
 Usage:
 
-`[PBAR]Title,ProgressText,BorderColor,ProgressColor,LittleColor,BorderSize,Progress%,BorderRadius[/PBAR]`
+`[PBAR]Title,ProgressText,BorderColor,ProgressColor,LittleColor,BorderSize,Progress%,BorderRadius,BottomMargin[/PBAR]`
 
 
 Examples:
 
-![Imgur](http://i.imgur.com/ckwJJ3E.png)
+![Imgur](http://i.imgur.com/a3Tr3qx.png)
